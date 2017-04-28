@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "66Q5RW6PQQ.com.redmadrobot.alfastrahovanie",
-				"paths": [ "*" ]
+				"paths": [ "/personal/policies",  "/personal/policies/detail.php"]
 			}
 		]
 	}
